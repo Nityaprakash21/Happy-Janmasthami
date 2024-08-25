@@ -2,7 +2,7 @@
 Creating a Janmashtami-themed animation using HTML and CSS is a wonderful way to combine web development skills with cultural celebration. In this article, we will break down each line of the provided code, explaining its purpose and functionality. We will also discuss the significance of Janmashtami, exploring why it is celebrated and its importance in Hindu culture.
 
 # Understanding the HTML Structure
-•	<!DOCTYPE html>: This declaration defines the document type and version of HTML being used. It ensures that the document is rendered correctly across different browsers.
+•	!DOCTYPE html: This declaration defines the document type and version of HTML being used. It ensures that the document is rendered correctly across different browsers.
 •	<html lang="en">: This tag wraps the entire HTML document. The lang attribute specifies the primary language of the document, which is English in this case.
 •	<head>: The head section contains meta-information about the document, such as character set, viewport settings, and links to external resources like stylesheets.
 •	<meta charset="UTF-8">: This meta tag specifies the character encoding for the document, ensuring that it can display characters from multiple languages.
