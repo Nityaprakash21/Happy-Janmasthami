@@ -179,6 +179,6 @@ Janmashtami is not just a celebration of Krishna’s birth but also an occasion 
 
 •	Dharma (Righteousness): Krishna’s life is a reminder of the importance of following the path of dharma, even in the face of adversity. He stood up against injustice and evil, encouraging others to do the same.
 
-Conclusion
+# Conclusion
 
 The Janmashtami animation created with HTML and CSS not only captures the festive spirit of the occasion but also serves as a digital homage to Lord Krishna. By combining modern web technologies with the traditional celebration of Janmashtami, this project offers a unique way to honor the divine. The animation, with its vibrant visuals and interactive elements, provides a meaningful and engaging way to celebrate Krishna’s birth online. Whether you’re a developer or a devotee, this project is a testament to how technology can be used to celebrate and share our cultural heritage.
