@@ -3,12 +3,19 @@ Creating a Janmashtami-themed animation using HTML and CSS is a wonderful way to
 
 # Understanding the HTML Structure
 •	!DOCTYPE html: This declaration defines the document type and version of HTML being used. It ensures that the document is rendered correctly across different browsers.
+
 •	html lang="en": This tag wraps the entire HTML document. The lang attribute specifies the primary language of the document, which is English in this case.
+
 •	head: The head section contains meta-information about the document, such as character set, viewport settings, and links to external resources like stylesheets.
+
 •	meta charset="UTF-8": This meta tag specifies the character encoding for the document, ensuring that it can display characters from multiple languages.
+
 •	meta name="viewport" content="width=device-width, initial-scale=1.0": This meta tag ensures that the page is responsive, meaning it adjusts its layout based on the device’s screen size.
+
 •	titleHappy Janmashtami Animated Landing Page/title: The title tag defines the title of the webpage, which appears in the browser’s title bar or tab.
+
 •	link rel="stylesheet" href="styles.css": This link tag connects the HTML file to an external CSS stylesheet (styles.css), which will be used to style the page.
+
 •	link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css": This link tag includes the Bootstrap Icons library, providing access to a wide range of icons for use on the page.
 
 # Body Content
