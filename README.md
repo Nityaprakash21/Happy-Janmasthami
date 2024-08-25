@@ -3,29 +3,29 @@ Creating a Janmashtami-themed animation using HTML and CSS is a wonderful way to
 
 # Understanding the HTML Structure
 •	!DOCTYPE html: This declaration defines the document type and version of HTML being used. It ensures that the document is rendered correctly across different browsers.
-•	<html lang="en">: This tag wraps the entire HTML document. The lang attribute specifies the primary language of the document, which is English in this case.
-•	<head>: The head section contains meta-information about the document, such as character set, viewport settings, and links to external resources like stylesheets.
-•	<meta charset="UTF-8">: This meta tag specifies the character encoding for the document, ensuring that it can display characters from multiple languages.
-•	<meta name="viewport" content="width=device-width, initial-scale=1.0">: This meta tag ensures that the page is responsive, meaning it adjusts its layout based on the device’s screen size.
-•	<title>Happy Janmashtami Animated Landing Page</title>: The title tag defines the title of the webpage, which appears in the browser’s title bar or tab.
-•	<link rel="stylesheet" href="styles.css">: This link tag connects the HTML file to an external CSS stylesheet (styles.css), which will be used to style the page.
-•	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">: This link tag includes the Bootstrap Icons library, providing access to a wide range of icons for use on the page.
+•	html lang="en": This tag wraps the entire HTML document. The lang attribute specifies the primary language of the document, which is English in this case.
+•	head: The head section contains meta-information about the document, such as character set, viewport settings, and links to external resources like stylesheets.
+•	meta charset="UTF-8": This meta tag specifies the character encoding for the document, ensuring that it can display characters from multiple languages.
+•	meta name="viewport" content="width=device-width, initial-scale=1.0": This meta tag ensures that the page is responsive, meaning it adjusts its layout based on the device’s screen size.
+•	titleHappy Janmashtami Animated Landing Page/title: The title tag defines the title of the webpage, which appears in the browser’s title bar or tab.
+•	link rel="stylesheet" href="styles.css": This link tag connects the HTML file to an external CSS stylesheet (styles.css), which will be used to style the page.
+•	link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css": This link tag includes the Bootstrap Icons library, providing access to a wide range of icons for use on the page.
 
 # Body Content
-•	<video autoplay loop muted>: The video element is used to embed a video on the page. The attributes autoplay, loop, and muted ensure that the video plays automatically, loops indefinitely, and does so without sound.
-•	<source src="Happy Janmashtami.mp4">: This tag specifies the video file to be used. Here, the video is named “Happy Janmashtami.mp4.”
-•	<nav class="navbar">: The nav element represents the navigation bar of the website. It contains links to different sections of the website.
-•	<div class="container">: This div serves as a wrapper to center and contain the navigation elements.
-•	<a href="#" class="logo">MatteX</a>: This a tag is used to create a clickable logo that links to the homepage. The class="logo" is for styling the logo text.
-•	<ul>: The ul element defines an unordered list, used here for the navigation links.
-•	<li>: Each li element contains a single list item, representing a navigation link.
-•	<main class="container">: The main element is the central content area of the webpage, holding the page’s primary content.
-•	<div class="page-content">: This div contains all the content displayed on the page, including the heading, paragraph, buttons, and social links.
-•	<h1 class="heading">Happy Janmashtami</h1>: The h1 element is used for the main heading of the page, styled with the heading class.
-•	<p>: The p element defines a paragraph, used here to display a celebratory message.
-•	<div class="buttons">: This div contains buttons that link to other sections or pages. The active class is used to highlight the primary button.
-•	<div class="social-links">: This div contains social media icons, allowing users to connect via different platforms.
-•	<a href="#" class="bi bi-facebook"></a>: The a tag with Bootstrap Icon classes (bi bi-facebook) creates a clickable Facebook icon
+•	video autoplay loop muted: The video element is used to embed a video on the page. The attributes autoplay, loop, and muted ensure that the video plays automatically, loops indefinitely, and does so without sound.
+•	source src="Happy Janmashtami.mp4": This tag specifies the video file to be used. Here, the video is named “Happy Janmashtami.mp4.”
+•	nav class="navbar": The nav element represents the navigation bar of the website. It contains links to different sections of the website.
+•	div class="container": This div serves as a wrapper to center and contain the navigation elements.
+•	a href="#" class="logo"MatteX/a: This a tag is used to create a clickable logo that links to the homepage. The class="logo" is for styling the logo text.
+•	ul: The ul element defines an unordered list, used here for the navigation links.
+•	li: Each li element contains a single list item, representing a navigation link.
+•	main class="container": The main element is the central content area of the webpage, holding the page’s primary content.
+•	div class="page-content": This div contains all the content displayed on the page, including the heading, paragraph, buttons, and social links.
+•	h1 class="heading"Happy Janmashtami/h1: The h1 element is used for the main heading of the page, styled with the heading class.
+•	p: The p element defines a paragraph, used here to display a celebratory message.
+•	div class="buttons": This div contains buttons that link to other sections or pages. The active class is used to highlight the primary button.
+•	div class="social-links": This div contains social media icons, allowing users to connect via different platforms.
+•	a href="#" class="bi bi-facebook"/a: The a tag with Bootstrap Icon classes (bi bi-facebook) creates a clickable Facebook icon
 
 # Breaking Down the CSS
 •	@font-face: This CSS rule allows you to define custom fonts. The font-family attribute assigns a name to the font, and the src attribute specifies the location of the font file.
